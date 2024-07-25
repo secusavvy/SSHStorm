@@ -35,3 +35,7 @@ SSHStorm is a Python script that performs a brute-force attack on SSH login cred
 - For each password, it uses the `paramiko` library to attempt an SSH connection.
 - If a valid password is found, it prints the successful password and stops further attempts.
 - Invalid passwords are reported, and the script continues with the next password.
+
+### Disclaimer
+The author of this script is not responsible for any misuse or damages caused by using this script. Use it at your own risk.
+Happy hacking responsibly!
