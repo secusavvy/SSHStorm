@@ -14,7 +14,7 @@ SSHStorm is a Python script that performs a brute-force attack on SSH login cred
 ### Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/0xknoty/SSHStorm.git
+    git clone https://github.com/secusavvy/SSHStorm.git
     cd SSHStorm
     ```
 
